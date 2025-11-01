@@ -1,0 +1,70 @@
+div{
+    border: solid 1px yellow;
+    background-color: grey;
+    margin-top: 10px;
+    font-size: 50px;
+    top: -300px;
+    position: absolute;
+    text-align: center;
+    width: 400px;
+}
+
+p{
+position: absolute;
+    top: -300px;
+    font-size: 25px;
+    
+}
+
+
+span{
+
+    top: -300px;
+    position: absolute;
+   color: green;
+   font-size: 30px;
+   font-weight: bold;  
+     width: 300px;
+}
+
+body{
+
+    background-color: beige;
+    font-family: Arial, sans-serif;
+}
+
+h3{
+   top: -300px;
+    position: absolute;
+    color: green;
+   font-size: 30px;
+   font-weight: bold;  
+     width: 250px;
+}
+
+ul{
+    position: absolute;
+    top: -350px;
+    font-size: 25px;
+}
+
+h2{
+    top: -300px;
+    position: absolute;
+    color: green;
+   font-size: 30px;
+   font-weight: bold;  
+     width: 400px;
+}
+
+.one{
+    position: absolute;
+    top: -300px;
+}
+
+button{
+
+  left: 700px;
+    position: absolute;
+    font-size: 50px;
+}
